@@ -20,10 +20,10 @@ bindsym $mod+Shift+l move right
 #######################
 
 # Enable natural scrolling
-exec xinput set-prop 11 337 1
+exec xinput set-prop 11 335 1
 
 # Enable tap-to-click
-exec xinput set-prop 11 329 1
+exec xinput set-prop 11 327 1
 
 # Enable brighness controls
 # Use xev to determine which X events are triggered by brightness butons
